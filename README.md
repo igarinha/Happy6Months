@@ -19,11 +19,20 @@ Each image is named `img{number}.jpg` – they are referenced so that you can qu
 
 ## 💬 Little Notes (Click to jump to the memory!)
 
-- [Remember this day? You looked like a dream. ☁️](#img1)  
-- [I still laugh every time I see this. You’re my sunshine. 🌻](#img2)  
-- [The best hug ever. No contest. 🫂](#img3)  
+- [Hmmmm sunshine made me blone (I am blonde btw 182cm 6ft) ☁🌞](#img1)  
+- [Pinguimzinho wants to play poker with us 🐧♠️♥️♣️♦️](#img2)  
+- [Edit of us I am fr insanely amazing. (so are you                   sometimes... hihi)](#img3)  
+- [Mwahh beijinho](#img4)  
+- [⛈️⛈️⛈️⛈️⛈️⛈️One of our best days together I love the rain ⛈️⛈️⛈️⛈️⛈️⛈️](#img5)  
+- [❤️❤️❤️VAMOS INTER❤️❤️❤️](#img6)  
+- [zzzzzz 💤💤💤](#img8)  
+- [Kisses 💋](#img9)  
+- [Another one in the sun ppls help](#img10)  
+- [zzzzz part II](#img11)  
+- [I look ugly gross beird u cute hihi love you](#img12)  
+- [⛈️⛈️⛈️⛈️⛈️⛈️honestly cant really describe how amazing this day was⛈️⛈️⛈️⛈️⛈️⛈️](#img13)  
+- [You llok insane I look weird](#img14)  
 
-*(More memories coming soon...)*
 
 ---
 
@@ -31,13 +40,44 @@ Each image is named `img{number}.jpg` – they are referenced so that you can qu
 *(Pinguinzinho said he took some of those himself. Pretty sure he's lying 🐧💬)*
 
 ### <a name="img1">📷 img1.jpg</a>
-![Remember this day?](data/img1.jpg)
+![Hmmmm sunshine made me blone (I am blonde btw 182cm 6ft) ☁🌞](data/img1.jpg)
 
 ### <a name="img2">📷 img2.jpg</a>
 ![Sunshine laughter](data/img2.jpg)
 
 ### <a name="img3">📷 img3.jpg</a>
 ![Best hug ever](data/img3.jpg)
+
+### <a name="img4">📷 img4.jpg</a>
+![Our cozy little moment](data/img4.jpg)
+
+### <a name="img5">📷 img5.jpg</a>
+![One of my favorite smiles](data/img5.jpg)
+
+### <a name="img6">📷 img6.jpg</a>
+![This one makes my heart happy](data/img6.jpg)
+
+### <a name="img7">📷 img7.jpg</a>
+![Just us being adorable](data/img8.jpg)
+
+### <a name="img8">📷 img8.jpg</a>
+![Can’t stop staring at this one](data/img9.jpg)
+
+### <a name="img9">📷 img9.jpg</a>
+![Proof that we're the cutest couple](data/img10.jpg)
+
+### <a name="img10">📷 img10.jpg</a>
+![Captured love](data/img11.jpg)
+
+### <a name="img11">📷 img11.jpg</a>
+![Every day with you is special](data/img12.jpg)
+
+### <a name="img12">📷 img12.jpg</a>
+![Look at that face](data/img13.jpg)
+
+### <a name="img13">📷 img13.jpg</a>
+![This day felt like a fairytale](data/img14.jpg)
+
 
 ## 🧡 Just So You Know
 
