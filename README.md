@@ -17,18 +17,27 @@ ALWAYS ADD THESE STUFF TO THE FILE README.md
 
 Each image is named `img{number}.jpg` – they are referenced so that you can quickly access them
 
-## 💬 Little Notes
+## 💬 Little Notes (Click to jump to the memory!)
 
-- ![img1](data/img1.jpg) — Remember this day? You looked like a dream. ☁️  
-- ![img2](data/img2.jpg) — I still laugh every time I see this. You’re my sunshine. 🌻  
-- ![img3](data/img3.jpg) — The best hug ever. No contest. 🫂  
+- [Remember this day? You looked like a dream. ☁️](#img1)  
+- [I still laugh every time I see this. You’re my sunshine. 🌻](#img2)  
+- [The best hug ever. No contest. 🫂](#img3)  
 
 *(More memories coming soon...)*
+
+---
 
 ## 📸 There you go... some of our pic  
 *(Pinguinzinho said he took some of those himself. Pretty sure he's lying 🐧💬)*
 
-![Fotinho nossa fofinhos](data/img1.jpg)
+### <a name="img1">📷 img1.jpg</a>
+![Remember this day?](data/img1.jpg)
+
+### <a name="img2">📷 img2.jpg</a>
+![Sunshine laughter](data/img2.jpg)
+
+### <a name="img3">📷 img3.jpg</a>
+![Best hug ever](data/img3.jpg)
 
 ## 🧡 Just So You Know
 
