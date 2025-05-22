@@ -24,6 +24,9 @@ Each image is named `img{number}.jpg` – they are referenced so that you can qu
 - `data/img3.jpg` — The best hug ever. No contest. 🫂  
 *(More memories coming soon...)*
 
+## There you go... some of our pic (pinguinzinho said he took some of those himself pretty sure he's lying)
+![Fotinho nossa fofinhos](data/img1.jpg)
+
 ## 🧡 Just So You Know
 
 I honestly hope you cherish this repository, this is very nerdy (as I know you like) also this might be somewhat useful to you so you learn a little bit how to code, use git and run scripts in python 🐍
