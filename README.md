@@ -19,12 +19,15 @@ Each image is named `img{number}.jpg` – they are referenced so that you can qu
 
 ## 💬 Little Notes
 
-- `data/img1.jpg` — Remember this day? You looked like a dream. ☁️  
-- `data/img2.jpg` — I still laugh every time I see this. You’re my sunshine. 🌻  
-- `data/img3.jpg` — The best hug ever. No contest. 🫂  
+- ![img1](data/img1.jpg) — Remember this day? You looked like a dream. ☁️  
+- ![img2](data/img2.jpg) — I still laugh every time I see this. You’re my sunshine. 🌻  
+- ![img3](data/img3.jpg) — The best hug ever. No contest. 🫂  
+
 *(More memories coming soon...)*
 
-## There you go... some of our pic (pinguinzinho said he took some of those himself pretty sure he's lying)
+## 📸 There you go... some of our pic  
+*(Pinguinzinho said he took some of those himself. Pretty sure he's lying 🐧💬)*
+
 ![Fotinho nossa fofinhos](data/img1.jpg)
 
 ## 🧡 Just So You Know
