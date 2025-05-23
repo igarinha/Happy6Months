@@ -3,6 +3,26 @@
 Welcome to the *cutest* repo on GitHub. I made this to the *cutest* girl ever(Igarinha Gatinha bb). This is my way of showing you that I love you, it required quite some effort and I hope you like it  
 This repo was created to celebrate our 6 months together, I doubt anyone would make something this cute to you (right?). 🌙✨
 
+## 💻 How to Use This Lovely Script
+
+You can decorate our photos with adorable hearts 💖 or tiny pinguimzinhos 🐧 – just like digital stickers!
+
+### ▶️ To Start
+
+Run the script:
+
+```bash
+python3 i_love_you.py
+```
+
+### 🎮 Controls
+
+- Press `1` → Choose **💖 hearts** mode  
+- Press `2` → Choose **🐧 pinguimzinhos** mode  
+- 🖱️ Click on the image → Add the selected sticker (heart or pinguimzinho)  
+- Press `s` → **Save** the image with all the decorations 💾  
+
+
 ## 🥰 Why This Repo Exists
 
 Well at first it is just a nerdy way to show you that I love you but now that I think about it is a cute way of saving our pics as some sort of diary. I hope you add to it.
